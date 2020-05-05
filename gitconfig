@@ -1,15 +1,9 @@
-# This is Git's per-user configuration file.
-[user]
-# Please adapt and uncomment the following lines:
-#	name = david
-#	email =  
-[user]
-	name = davidwskang
-	email = @gmail.com
+# ~/.gitconfig
+
 [alias]
   cb = checkout - b
   co = checkout
-  ci = commit
+  cm = commit -m
   st = status
   br = branch
 [filter "lfs"]
